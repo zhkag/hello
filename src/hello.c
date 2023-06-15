@@ -3,6 +3,7 @@
 int hello_func(void)
 {
     rt_kprintf("Hello RT-Thread!\n");
+    
     return 0;
 }
 
